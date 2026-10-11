@@ -59,8 +59,6 @@ redirect_from:
   * Accelerating End-to-End Data Science Workflows (RAPIDS)
 * **HarvardX Professional Data Science:**
   * Probability, Inference and Modeling, Data Wrangling, Linear Regression, Machine Learning
-* **Kaggle:**
-  * Deep Learning, Machine Learning, Intermediate ML, Time Series Analysis
 * **University of Manchester at Harwell:**
   * Visualization and Quantification of Tomographic Datasets
 
